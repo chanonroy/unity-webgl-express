@@ -10,13 +10,13 @@ This is a small prototype for hosting a Unity game exported and compressed to We
 
 Clone down the repo and install packages
 
-```sh
+```
 yarn
 ```
 
 Run the server
 
-```sh
+```
 yarn dev
 ```
 
